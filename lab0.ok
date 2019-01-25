@@ -1,0 +1,15 @@
+{
+  "name": "Lab 0 / Exercise 4 - Notebook Exercises",
+  "endpoint": "uu/2is063/au18/lab1test",
+  "src": [
+    "Lab0_Ex4_Notebook_Exercises.ipynb"
+  ],
+  "tests": {
+      "ok_tests/q*.py": "ok_test"
+  },
+  "protocols": [
+      "file_contents",
+      "grading",
+      "backup"
+  ]
+}
