@@ -8,6 +8,8 @@ This repository contains the lab notebooks for the 2IS239 Data Analytics course.
 
 You can also run the notebooks on your own computer. Please read the [installation instructions](INSTALL.md) if you wish to do this.
 
+## License
+
 The contents of this repository are licensed for reuse under Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0).
 
 ## Attribution
