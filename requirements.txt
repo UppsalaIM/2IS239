@@ -9,3 +9,5 @@ scikit-learn
 tweepy
 seaborn
 statsmodels
+keras
+tensorflow
