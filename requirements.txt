@@ -7,3 +7,5 @@ graphviz
 okpy
 scikit-learn
 tweepy
+seaborn
+statsmodels
